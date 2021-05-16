@@ -1,0 +1,32 @@
+h1 {
+	text-align: center;
+	font-family: serif;
+	font-size: 50px;
+}
+
+div.keterangan {
+	font-family: serif;
+	margin-left: 50px;
+}
+
+table {
+	margin-left:auto;
+	margin-right: auto;
+}
+div.penutup {
+	font-family: serif;
+	font-size: 50px;
+}
+/*body {
+	background-image: url(gambar/owl.jpg);
+	background-repeat: no-repeat;
+	background-position: top right;
+}*/
+.penulis {
+	color: blue;
+}
+.penulis:hover {
+	color: red;
+}
+
+
